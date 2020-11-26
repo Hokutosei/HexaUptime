@@ -3,6 +3,8 @@ repo: HexaUptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Hexabase Staging Login
     url: https://az.hexabase.com/login
+  - name: Hexabase Staging API
+    url: https://az-api.hexabase.com/login    
 status-website:
   baseUrl: /HexaUptime # where "repo" is your repository name
   name: HexaUptime (trial)
