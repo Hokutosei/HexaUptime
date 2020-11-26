@@ -5,6 +5,14 @@
     "slug": "hexabase-staging-login",
     "status": "up",
     "uptime": "100.00%",
-    "time": 602
+    "time": 642
+  },
+  {
+    "name": "Hexabase Staging API",
+    "url": "https://az-api.hexabase.com/login",
+    "slug": "hexabase-staging-api",
+    "status": "down",
+    "uptime": "7.42%",
+    "time": 527
   }
 ]
