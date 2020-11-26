@@ -4,7 +4,9 @@ sites: # List of endpoints to track
   - name: Hexabase Staging Login
     url: https://az.hexabase.com/login
   - name: Hexabase Staging API
-    url: https://az-api.hexabase.com/health_check    
+    url: https://az-api.hexabase.com/health_check
+  - name: Community Site
+    url: https://community.hexabase.com
 status-website:
   baseUrl: /HexaUptime # where "repo" is your repository name
   name: HexaUptime (trial)
