@@ -5,7 +5,7 @@
     "slug": "hexabase-staging-login",
     "status": "up",
     "uptime": "100.00%",
-    "time": 630
+    "time": 633
   },
   {
     "name": "Hexabase Staging API",
@@ -13,7 +13,7 @@
     "slug": "hexabase-staging-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 526
+    "time": 524
   },
   {
     "name": "Community Site",
@@ -21,6 +21,6 @@
     "slug": "community-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 741
+    "time": 717
   }
 ]
