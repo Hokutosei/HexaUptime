@@ -3,23 +3,23 @@
     "name": "Hexabase Staging Login",
     "url": "https://az.hexabase.com/login",
     "slug": "hexabase-staging-login",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 645
+    "time": 650
   },
   {
     "name": "Hexabase Staging API",
     "url": "https://az-api.hexabase.com/health_check",
     "slug": "hexabase-staging-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 524
+    "time": 525
   },
   {
     "name": "Community Site",
     "url": "https://community.hexabase.com",
     "slug": "community-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "time": 692
   }
