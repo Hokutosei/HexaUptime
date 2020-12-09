@@ -2,25 +2,55 @@
   {
     "name": "Hexabase Staging Login",
     "url": "https://az.hexabase.com/login",
+    "icon": "https://favicons.githubusercontent.com/az.hexabase.com",
     "slug": "hexabase-staging-login",
     "status": "up",
     "uptime": "100.00%",
-    "time": 651
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 648,
+    "timeDay": 565,
+    "timeWeek": 658,
+    "timeMonth": 648,
+    "timeYear": 648,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hexabase Staging API",
     "url": "https://az-api.hexabase.com/health_check",
+    "icon": "https://favicons.githubusercontent.com/az-api.hexabase.com",
     "slug": "hexabase-staging-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 529
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 538,
+    "timeWeek": 530,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Community Site",
     "url": "https://community.hexabase.com",
+    "icon": "https://favicons.githubusercontent.com/community.hexabase.com",
     "slug": "community-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 698
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 736,
+    "timeDay": 1301,
+    "timeWeek": 791,
+    "timeMonth": 736,
+    "timeYear": 736,
+    "dailyMinutesDown": {}
   }
 ]
