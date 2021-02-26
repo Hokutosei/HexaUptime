@@ -7,17 +7,17 @@ sites: # List of endpoints to track
     url: https://az-api.hexabase.com/health_check
   - name: Community Site
     url: https://community.hexabase.com
-  - name: Apicore
+  - name: Apicore Service
     url: https://az-hxg.hexabase.com/apicore/health_check
     method: GET
-  - name: Apicore
+  - name: LinkerAPI Service
     url: https://az-hxg.hexabase.com/linkerapi/health_check
     method: GET    
 assignees: # Users to assign downtime issues (optional)
   - Hokutosei
 status-website:
   baseUrl: /HexaUptime # where "repo" is your repository name
-  name: HexaUptime (trial)
+  name: HexaUptime Staging Environment (trial)
 commitMessages:
 #   readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
 #   summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
