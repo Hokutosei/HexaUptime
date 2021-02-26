@@ -1,7 +1,7 @@
-url: https://az-hxg.hexabase.com/apicore/health_check
+url: https://az-hxg.hexabase.com/linkerapi/health_check
 status: up
 code: 200
-responseTime: 537
-lastUpdated: 2021-02-26T00:32:04.816Z
+responseTime: 168
+lastUpdated: 2021-02-26T00:32:05.259Z
 startTime: Fri Feb 26 2021 00:01:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
