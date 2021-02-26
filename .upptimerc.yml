@@ -7,6 +7,8 @@ sites: # List of endpoints to track
     url: https://az-api.hexabase.com/health_check
   - name: Community Site
     url: https://community.hexabase.com
+  - name: Apicore
+    url: https://az-hxg.hexabase.com/apicore/health_check
 assignees: # Users to assign downtime issues (optional)
   - Hokutosei
 status-website:
