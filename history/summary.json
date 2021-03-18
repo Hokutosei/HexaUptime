@@ -78,17 +78,17 @@
     "url": "https://az-hxg.hexabase.com/linkerapi/health_check",
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "linker-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 161,
-    "timeWeek": 166,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "time": 164,
+    "timeDay": 158,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   }
 ]
