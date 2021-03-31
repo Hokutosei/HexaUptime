@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/az.hexabase.com",
     "slug": "hexabase-staging-login",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 705,
-    "timeWeek": 601,
-    "timeMonth": 655,
+    "timeDay": 688,
+    "timeWeek": 611,
+    "timeMonth": 656,
     "timeYear": 669,
-    "dailyMinutesDown": {
-      "2021-03-18": 80,
-      "2021-02-02": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hexabase Staging API",
@@ -32,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 526,
-    "timeWeek": 542,
-    "timeMonth": 544,
+    "timeDay": 513,
+    "timeWeek": 538,
+    "timeMonth": 543,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
@@ -50,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 711,
-    "timeDay": 695,
-    "timeWeek": 721,
-    "timeMonth": 720,
+    "timeDay": 666,
+    "timeWeek": 709,
+    "timeMonth": 718,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2021-02-02": 33
@@ -64,20 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.76%",
-    "time": 562,
-    "timeDay": 502,
-    "timeWeek": 535,
-    "timeMonth": 564,
-    "timeYear": 562,
-    "dailyMinutesDown": {
-      "2021-03-18": 80,
-      "2021-02-02": 33
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 560,
+    "timeDay": 505,
+    "timeWeek": 529,
+    "timeMonth": 562,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LinkerAPI Service",
@@ -91,8 +85,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.83%",
     "time": 164,
-    "timeDay": 160,
-    "timeWeek": 161,
+    "timeDay": 165,
+    "timeWeek": 163,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
