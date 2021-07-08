@@ -63,36 +63,39 @@
     "url": "https://az-hxg.hexabase.com/apicore/health_check",
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "apicore-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 519,
-    "timeWeek": 548,
-    "timeMonth": 568,
-    "timeYear": 554,
-    "dailyMinutesDown": {}
+    "time": 553,
+    "timeDay": 506,
+    "timeWeek": 542,
+    "timeMonth": 566,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2021-07-08": 0
+    }
   },
   {
     "name": "LinkerAPI Service",
     "url": "https://az-hxg.hexabase.com/linkerapi/health_check",
     "icon": "https://favicons.githubusercontent.com/az-hxg.hexabase.com",
     "slug": "linker-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 161,
-    "timeDay": 146,
-    "timeWeek": 155,
+    "timeDay": 149,
+    "timeWeek": 154,
     "timeMonth": 163,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2021-07-08": 0,
       "2021-03-18": 80
     }
   }
