@@ -1,7 +1,7 @@
 url: https://az-hxg.hexabase.com/linkerapi/health_check
-status: down
-code: 503
-responseTime: 155
-lastUpdated: 2021-07-15T10:06:21.804Z
+status: up
+code: 200
+responseTime: 170
+lastUpdated: 2021-07-15T14:25:52.290Z
 startTime: Fri Feb 26 2021 00:33:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
