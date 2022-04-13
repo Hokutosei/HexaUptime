@@ -1,7 +1,7 @@
 url: https://az.hexabase.com/login
-status: down
-code: 503
-responseTime: 553
-lastUpdated: 2022-04-13T15:06:18.331Z
+status: up
+code: 200
+responseTime: 513
+lastUpdated: 2022-04-13T15:16:37.548Z
 startTime: Thu Nov 26 2020 04:17:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
