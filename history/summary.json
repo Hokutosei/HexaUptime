@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/az.hexabase.com",
     "slug": "hexabase-staging-login",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 609,
-    "timeDay": 488,
-    "timeWeek": 527,
-    "timeMonth": 518,
+    "timeDay": 549,
+    "timeWeek": 530,
+    "timeMonth": 521,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2022-06-10": 876,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 613,
-    "timeDay": 426,
-    "timeWeek": 520,
-    "timeMonth": 498,
+    "timeDay": 569,
+    "timeWeek": 530,
+    "timeMonth": 500,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2022-07-03": 21,
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 711,
-    "timeDay": 615,
-    "timeWeek": 657,
-    "timeMonth": 676,
+    "timeDay": 746,
+    "timeWeek": 666,
+    "timeMonth": 678,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2022-05-27": 25,
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 659,
-    "timeDay": 450,
-    "timeWeek": 512,
-    "timeMonth": 532,
+    "timeDay": 520,
+    "timeWeek": 515,
+    "timeMonth": 534,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2022-07-11": 35,
@@ -121,8 +121,7 @@
       "2021-11-08": 96,
       "2021-11-07": 271,
       "2021-10-22": 119,
-      "2021-10-21": 11,
-      "2021-09-07": 314
+      "2021-10-21": 11
     }
   },
   {
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 164,
-    "timeDay": 137,
-    "timeWeek": 153,
-    "timeMonth": 148,
+    "timeDay": 157,
+    "timeWeek": 156,
+    "timeMonth": 149,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2022-07-03": 21,
@@ -153,8 +152,7 @@
       "2021-11-08": 96,
       "2021-11-07": 271,
       "2021-10-22": 119,
-      "2021-10-21": 11,
-      "2021-09-07": 314
+      "2021-10-21": 11
     }
   }
 ]
