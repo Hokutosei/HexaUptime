@@ -11,9 +11,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.31%",
     "time": 608,
-    "timeDay": 485,
-    "timeWeek": 841,
-    "timeMonth": 670,
+    "timeDay": 480,
+    "timeWeek": 844,
+    "timeMonth": 666,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-10-31": 83,
@@ -30,8 +30,7 @@
       "2022-03-16": 86,
       "2022-03-15": 105,
       "2022-01-19": 107,
-      "2021-11-08": 80,
-      "2021-11-07": 222
+      "2021-11-08": 80
     }
   },
   {
@@ -46,7 +45,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 602,
-    "timeDay": 396,
+    "timeDay": 529,
     "timeWeek": 483,
     "timeMonth": 507,
     "timeYear": 598,
@@ -61,8 +60,7 @@
       "2022-03-16": 27,
       "2022-03-15": 101,
       "2022-01-19": 108,
-      "2021-11-08": 136,
-      "2021-11-07": 144
+      "2021-11-08": 136
     }
   },
   {
@@ -71,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
     "status": "down",
-    "uptime": "91.65%",
+    "uptime": "91.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.14%",
-    "time": 642,
-    "timeDay": 40,
-    "timeWeek": 74,
-    "timeMonth": 107,
-    "timeYear": 607,
+    "uptimeYear": "83.86%",
+    "time": 641,
+    "timeDay": 152,
+    "timeWeek": 87,
+    "timeMonth": 108,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-11-06": 1,
+      "2022-11-07": 1,
+      "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -152,16 +151,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "98.75%",
-    "time": 665,
-    "timeDay": 394,
-    "timeWeek": 611,
-    "timeMonth": 743,
-    "timeYear": 696,
+    "time": 671,
+    "timeDay": 5288,
+    "timeWeek": 900,
+    "timeMonth": 834,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2022-11-01": 23,
       "2022-10-31": 53,
@@ -197,8 +196,7 @@
       "2022-01-20": 28,
       "2022-01-19": 90,
       "2021-11-26": 27,
-      "2021-11-08": 96,
-      "2021-11-07": 271
+      "2021-11-08": 96
     }
   },
   {
@@ -213,9 +211,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.34%",
     "time": 173,
-    "timeDay": 119,
-    "timeWeek": 189,
-    "timeMonth": 309,
+    "timeDay": 153,
+    "timeWeek": 192,
+    "timeMonth": 308,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-11-01": 23,
@@ -234,8 +232,7 @@
       "2022-03-16": 27,
       "2022-03-15": 72,
       "2022-01-19": 88,
-      "2021-11-08": 96,
-      "2021-11-07": 271
+      "2021-11-08": 96
     }
   }
 ]
