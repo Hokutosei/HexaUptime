@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "90.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.83%",
+    "uptimeYear": "74.56%",
     "time": 481,
-    "timeDay": 136,
-    "timeWeek": 102,
-    "timeMonth": 100,
-    "timeYear": 461,
+    "timeDay": 128,
+    "timeWeek": 107,
+    "timeMonth": 102,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2023-10-19": 1,
+      "2023-10-20": 1,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -116,8 +117,7 @@
       "2023-04-10": 31,
       "2022-12-15": 21,
       "2022-10-31": 83,
-      "2022-10-28": 46,
-      "2022-10-20": 23
+      "2022-10-28": 46
     }
   },
   {
@@ -126,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "67.88%",
+    "uptime": "67.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.50%",
-    "time": 215,
-    "timeDay": 124,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 154,
+    "uptimeYear": "7.23%",
+    "time": 214,
+    "timeDay": 74,
+    "timeWeek": 93,
+    "timeMonth": 95,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-10-19": 1,
+      "2023-10-20": 1,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -476,8 +477,7 @@
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 776,
-      "2022-10-31": 46,
-      "2022-10-20": 73
+      "2022-10-31": 46
     }
   },
   {
@@ -486,18 +486,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
     "status": "down",
-    "uptime": "61.55%",
+    "uptime": "61.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.01%",
-    "time": 198,
-    "timeDay": 98,
-    "timeWeek": 81,
-    "timeMonth": 93,
+    "time": 197,
+    "timeDay": 137,
+    "timeWeek": 88,
+    "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-10-19": 1,
+      "2023-10-20": 1,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -860,8 +861,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   },
   {
@@ -870,18 +870,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "94.31%",
+    "uptime": "94.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.53%",
+    "uptimeYear": "86.26%",
     "time": 769,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2023-10-19": 1,
+      "2023-10-20": 1,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -943,8 +944,7 @@
       "2022-11-23": 187,
       "2022-11-01": 23,
       "2022-10-31": 53,
-      "2022-10-28": 23,
-      "2022-10-20": 26
+      "2022-10-28": 23
     }
   },
   {
@@ -953,18 +953,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "94.55%",
+    "uptime": "94.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.59%",
+    "uptimeYear": "86.32%",
     "time": 240,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-10-19": 1,
+      "2023-10-20": 1,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -1023,8 +1024,7 @@
       "2022-12-15": 20,
       "2022-11-01": 23,
       "2022-10-31": 53,
-      "2022-10-28": 23,
-      "2022-10-20": 26
+      "2022-10-28": 23
     }
   }
 ]
