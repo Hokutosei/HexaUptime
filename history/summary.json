@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "78.13%",
+    "uptime": "78.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.19%",
+    "uptimeYear": "26.92%",
     "time": 281,
-    "timeDay": 228,
-    "timeWeek": 111,
+    "timeDay": 91,
+    "timeWeek": 113,
     "timeMonth": 98,
-    "timeYear": 217,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-04-10": 1,
+      "2024-04-11": 1,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -285,8 +286,7 @@
       "2023-07-19": 818,
       "2023-06-14": 19,
       "2023-06-13": 51,
-      "2023-04-18": 19,
-      "2023-04-12": 135
+      "2023-04-18": 19
     }
   },
   {
@@ -295,18 +295,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "58.28%",
+    "uptime": "58.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 89,
-    "timeWeek": 94,
-    "timeMonth": 93,
+    "timeDay": 94,
+    "timeWeek": 95,
+    "timeMonth": 92,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-04-10": 1,
+      "2024-04-11": 1,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -669,8 +670,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -679,18 +679,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
     "status": "down",
-    "uptime": "52.85%",
+    "uptime": "52.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 114,
-    "timeWeek": 72,
-    "timeMonth": 81,
+    "timeDay": 117,
+    "timeWeek": 75,
+    "timeMonth": 80,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-04-10": 1,
+      "2024-04-11": 1,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -1053,8 +1054,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -1063,18 +1063,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "79.90%",
+    "uptime": "79.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.93%",
-    "time": 517,
+    "uptimeYear": "38.66%",
+    "time": 518,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 531,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-04-10": 1,
+      "2024-04-11": 1,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -1303,8 +1304,7 @@
       "2023-07-05": 24,
       "2023-06-14": 64,
       "2023-06-13": 51,
-      "2023-05-31": 67,
-      "2023-04-12": 135
+      "2023-05-31": 67
     }
   },
   {
@@ -1313,18 +1313,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "80.10%",
+    "uptime": "80.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.96%",
+    "uptimeYear": "38.68%",
     "time": 155,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-04-10": 1,
+      "2024-04-11": 1,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -1551,8 +1552,7 @@
       "2023-07-22": 133,
       "2023-06-14": 19,
       "2023-06-13": 51,
-      "2023-05-31": 52,
-      "2023-04-12": 127
+      "2023-05-31": 52
     }
   }
 ]
