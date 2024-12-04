@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "65.51%",
+    "uptime": "65.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 98,
-    "timeDay": 98,
-    "timeWeek": 121,
-    "timeMonth": 113,
-    "timeYear": 99,
+    "timeDay": 114,
+    "timeWeek": 118,
+    "timeMonth": 112,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-12-03": 1,
+      "2024-12-04": 1,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -379,8 +380,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "48.87%",
+    "uptime": "48.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 103,
-    "timeDay": 107,
-    "timeWeek": 107,
+    "timeDay": 77,
+    "timeWeek": 109,
     "timeMonth": 116,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-12-03": 1,
+      "2024-12-04": 1,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -763,8 +764,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
     "status": "down",
-    "uptime": "44.31%",
+    "uptime": "44.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 88,
-    "timeDay": 88,
-    "timeWeek": 76,
-    "timeMonth": 99,
+    "timeDay": 71,
+    "timeWeek": 72,
+    "timeMonth": 96,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-12-03": 1,
+      "2024-12-04": 1,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1147,8 +1148,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "66.14%",
+    "uptime": "66.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 513,
+    "time": 514,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 1,
+      "2024-12-04": 1,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1531,8 +1532,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "66.31%",
+    "uptime": "66.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 183,
+    "time": 184,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 2,
+      "2024-12-04": 1,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1915,8 +1916,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   }
 ]
