@@ -1,7 +1,7 @@
 url: https://az-api.hexabase.com/health_check
 status: down
 code: 503
-responseTime: 778
-lastUpdated: 2025-06-12T23:05:21.531Z
+responseTime: 426
+lastUpdated: 2025-06-13T23:05:14.516Z
 startTime: 2020-11-26T04:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
