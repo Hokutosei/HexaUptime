@@ -1,7 +1,7 @@
 url: https://community.hexabase.com
-status: up
-code: 200
-responseTime: 10628
-lastUpdated: 2025-06-16T15:41:56.586Z
+status: down
+code: 500
+responseTime: 5511
+lastUpdated: 2025-06-16T15:50:40.591Z
 startTime: 2020-11-26T11:05:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
