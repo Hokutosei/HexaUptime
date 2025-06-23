@@ -16,7 +16,7 @@
     "timeMonth": 596,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-06-23": 260,
+      "2025-06-23": 447,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 622,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-06-23": 260,
+      "2025-06-23": 447,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "67.87%",
+    "uptimeDay": "80.82%",
     "uptimeWeek": "65.28%",
     "uptimeMonth": "89.47%",
     "uptimeYear": "95.67%",
-    "time": 4123,
-    "timeDay": 13707,
-    "timeWeek": 10413,
-    "timeMonth": 9232,
-    "timeYear": 4427,
+    "time": 4133,
+    "timeDay": 13806,
+    "timeWeek": 10449,
+    "timeMonth": 9243,
+    "timeYear": 4434,
     "dailyMinutesDown": {
       "2025-06-23": 35,
       "2025-06-22": 688,
@@ -847,8 +847,7 @@
       "2025-03-17": 37,
       "2025-03-15": 18,
       "2025-02-28": 21,
-      "2025-02-17": 22,
-      "2025-02-08": 32
+      "2025-02-17": 22
     }
   },
   {
@@ -857,7 +856,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "57.67%",
+    "uptime": "57.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -868,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-23": 260,
+      "2025-06-23": 447,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -1252,7 +1251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-23": 260,
+      "2025-06-23": 447,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
