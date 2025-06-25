@@ -16,7 +16,7 @@
     "timeMonth": 593,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-06-25": 729,
+      "2025-06-25": 837,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 622,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-06-25": 729,
+      "2025-06-25": 837,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -774,17 +774,17 @@
     "slug": "community-site",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "65.76%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "95.70%",
-    "time": 4375,
-    "timeDay": 10428,
-    "timeWeek": 11278,
-    "timeMonth": 9725,
-    "timeYear": 4732,
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "65.83%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "95.71%",
+    "time": 4382,
+    "timeDay": 10173,
+    "timeWeek": 11312,
+    "timeMonth": 9712,
+    "timeYear": 4734,
     "dailyMinutesDown": {
-      "2025-06-25": 54,
+      "2025-06-25": 63,
       "2025-06-23": 125,
       "2025-06-22": 688,
       "2025-06-21": 1440,
@@ -840,7 +840,7 @@
       "2025-03-30": 18,
       "2025-03-28": 237,
       "2025-03-27": 563,
-      "2025-03-26": 1074
+      "2025-03-26": 1000
     }
   },
   {
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-25": 729,
+      "2025-06-25": 838,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -1233,7 +1233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "57.73%",
+    "uptime": "57.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1244,7 +1244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-25": 729,
+      "2025-06-25": 838,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
