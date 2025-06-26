@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "57.48%",
+    "uptime": "57.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 594,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-06-26": 386,
+      "2025-06-26": 709,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 620,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-06-26": 386,
+      "2025-06-26": 709,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "86.86%",
-    "uptimeWeek": "65.35%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "65.61%",
     "uptimeMonth": "88.83%",
     "uptimeYear": "95.96%",
-    "time": 4505,
-    "timeDay": 12000,
-    "timeWeek": 11320,
-    "timeMonth": 9836,
-    "timeYear": 4808,
+    "time": 4514,
+    "timeDay": 11004,
+    "timeWeek": 11176,
+    "timeMonth": 9845,
+    "timeYear": 4815,
     "dailyMinutesDown": {
       "2025-06-26": 116,
       "2025-06-25": 71,
@@ -840,7 +840,7 @@
       "2025-03-31": 174,
       "2025-03-30": 18,
       "2025-03-28": 237,
-      "2025-03-27": 135
+      "2025-03-27": 111
     }
   },
   {
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 386,
+      "2025-06-26": 709,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1233,7 +1233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "57.70%",
+    "uptime": "57.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1244,7 +1244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 386,
+      "2025-06-26": 709,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
