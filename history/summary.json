@@ -16,7 +16,7 @@
     "timeMonth": 600,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-06-27": 2,
+      "2025-06-27": 28,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "42.86%",
+    "uptime": "42.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 622,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-06-27": 2,
+      "2025-06-27": 28,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -772,18 +772,19 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "91.86%",
+    "uptimeDay": "91.85%",
     "uptimeWeek": "66.35%",
     "uptimeMonth": "88.83%",
     "uptimeYear": "95.96%",
-    "time": 4554,
-    "timeDay": 10159,
-    "timeWeek": 10975,
-    "timeMonth": 9832,
-    "timeYear": 4832,
+    "time": 4308,
+    "timeDay": 9602,
+    "timeWeek": 10897,
+    "timeMonth": 9818,
+    "timeYear": 4829,
     "dailyMinutesDown": {
+      "2025-06-27": 0,
       "2025-06-26": 116,
       "2025-06-25": 71,
       "2025-06-23": 125,
@@ -840,7 +841,7 @@
       "2025-03-31": 174,
       "2025-03-30": 18,
       "2025-03-28": 237,
-      "2025-03-27": 135
+      "2025-03-27": 111
     }
   },
   {
@@ -860,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 2,
+      "2025-06-27": 29,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -1244,7 +1245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 2,
+      "2025-06-27": 29,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
