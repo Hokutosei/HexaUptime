@@ -16,7 +16,7 @@
     "timeMonth": 596,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-07-05": 234,
+      "2025-07-05": 371,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 614,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-07-05": 234,
+      "2025-07-05": 371,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "21.72%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "23.07%",
     "uptimeMonth": "67.94%",
-    "uptimeYear": "94.24%",
+    "uptimeYear": "94.25%",
     "time": 4420,
-    "timeDay": 8607,
-    "timeWeek": 6488,
-    "timeMonth": 10208,
-    "timeYear": 4869,
+    "timeDay": 7934,
+    "timeWeek": 6249,
+    "timeMonth": 10215,
+    "timeYear": 4866,
     "dailyMinutesDown": {
       "2025-07-05": 15,
       "2025-07-04": 22,
@@ -847,8 +847,7 @@
       "2025-04-04": 20,
       "2025-04-02": 158,
       "2025-03-31": 174,
-      "2025-03-30": 18,
-      "2025-03-28": 16
+      "2025-03-30": 18
     }
   },
   {
@@ -868,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 235,
+      "2025-07-05": 371,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1241,7 +1240,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1252,7 +1251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 235,
+      "2025-07-05": 371,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
