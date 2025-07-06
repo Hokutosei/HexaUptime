@@ -16,7 +16,7 @@
     "timeMonth": 599,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-07-06": 156,
+      "2025-07-06": 355,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 616,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-07-06": 156,
+      "2025-07-06": 355,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -772,16 +772,16 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "34.77%",
-    "uptimeMonth": "67.99%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "36.74%",
+    "uptimeMonth": "68.05%",
     "uptimeYear": "94.24%",
-    "time": 4479,
-    "timeDay": 6674,
-    "timeWeek": 6599,
-    "timeMonth": 10187,
+    "time": 4482,
+    "timeDay": 6215,
+    "timeWeek": 6552,
+    "timeMonth": 10211,
     "timeYear": 4883,
     "dailyMinutesDown": {
       "2025-07-06": 46,
@@ -847,8 +847,7 @@
       "2025-04-17": 21,
       "2025-04-04": 20,
       "2025-04-02": 158,
-      "2025-03-31": 174,
-      "2025-03-30": 18
+      "2025-03-31": 174
     }
   },
   {
@@ -857,7 +856,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "57.20%",
+    "uptime": "57.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -868,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 156,
+      "2025-07-06": 355,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1252,7 +1251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 157,
+      "2025-07-06": 355,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
