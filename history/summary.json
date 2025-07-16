@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "56.82%",
+    "uptime": "56.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 302,
-    "timeDay": 616,
-    "timeWeek": 565,
-    "timeMonth": 600,
-    "timeYear": 379,
+    "time": 303,
+    "timeDay": 732,
+    "timeWeek": 601,
+    "timeMonth": 603,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-07-15": 868,
+      "2025-07-16": 1,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -379,8 +380,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "42.38%",
+    "uptime": "42.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 272,
-    "timeDay": 632,
-    "timeWeek": 590,
-    "timeMonth": 620,
-    "timeYear": 330,
+    "time": 273,
+    "timeDay": 677,
+    "timeWeek": 623,
+    "timeMonth": 619,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-07-15": 868,
+      "2025-07-16": 2,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -763,8 +764,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "community-site",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "69.54%",
-    "uptimeYear": "94.26%",
-    "time": 4384,
-    "timeDay": 759,
-    "timeWeek": 1161,
-    "timeMonth": 8256,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "69.65%",
+    "uptimeYear": "94.25%",
+    "time": 4385,
+    "timeDay": 729,
+    "timeWeek": 1122,
+    "timeMonth": 8206,
     "timeYear": 4793,
     "dailyMinutesDown": {
-      "2025-07-15": 13,
       "2025-07-14": 22,
       "2025-07-11": 20,
       "2025-07-06": 46,
@@ -849,7 +848,8 @@
       "2025-04-18": 23,
       "2025-04-17": 21,
       "2025-04-04": 20,
-      "2025-04-02": 158
+      "2025-04-02": 158,
+      "2025-03-31": 55
     }
   },
   {
@@ -858,7 +858,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "56.86%",
+    "uptime": "56.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -869,7 +869,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 868,
+      "2025-07-16": 2,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -1232,8 +1233,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   },
   {
@@ -1242,7 +1242,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "57.00%",
+    "uptime": "56.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1253,7 +1253,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 868,
+      "2025-07-16": 2,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -1616,8 +1617,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   }
 ]
