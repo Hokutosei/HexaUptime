@@ -16,7 +16,7 @@
     "timeMonth": 604,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-07-28": 1,
+      "2025-07-28": 71,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "42.08%",
+    "uptime": "42.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 610,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-07-28": 1,
+      "2025-07-28": 71,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -772,18 +772,19 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.19%",
-    "uptimeMonth": "80.89%",
-    "uptimeYear": "94.28%",
+    "uptimeMonth": "81.05%",
+    "uptimeYear": "94.29%",
     "time": 4244,
-    "timeDay": 718,
-    "timeWeek": 1272,
-    "timeMonth": 2547,
-    "timeYear": 4592,
+    "timeDay": 683,
+    "timeWeek": 1260,
+    "timeMonth": 2538,
+    "timeYear": 4590,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-07-27": 19,
       "2025-07-26": 23,
       "2025-07-25": 22,
@@ -849,8 +850,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1120,
-      "2025-04-29": 38,
-      "2025-04-27": 24
+      "2025-04-29": 38
     }
   },
   {
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-28": 2,
+      "2025-07-28": 71,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -1254,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-28": 2,
+      "2025-07-28": 71,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
