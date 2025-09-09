@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "55.02%",
+    "uptime": "55.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 785,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-09-09": 204,
+      "2025-09-09": 277,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 645,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-09-09": 204,
+      "2025-09-09": 277,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "84.18%",
-    "uptimeWeek": "17.53%",
+    "uptimeDay": "84.17%",
+    "uptimeWeek": "18.25%",
     "uptimeMonth": "39.85%",
-    "uptimeYear": "92.22%",
-    "time": 4227,
-    "timeDay": 6173,
-    "timeWeek": 6845,
-    "timeMonth": 4791,
-    "timeYear": 4576,
+    "uptimeYear": "92.23%",
+    "time": 4233,
+    "timeDay": 6090,
+    "timeWeek": 6920,
+    "timeMonth": 4854,
+    "timeYear": 4581,
     "dailyMinutesDown": {
       "2025-09-09": 113,
       "2025-09-08": 177,
@@ -851,7 +851,7 @@
       "2025-06-09": 71,
       "2025-06-08": 100,
       "2025-06-07": 163,
-      "2025-06-06": 33
+      "2025-06-06": 15
     }
   },
   {
@@ -871,7 +871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 204,
+      "2025-09-09": 277,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -1255,7 +1255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 204,
+      "2025-09-09": 277,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
