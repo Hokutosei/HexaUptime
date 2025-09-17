@@ -16,7 +16,7 @@
     "timeMonth": 798,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-09-17": 784,
+      "2025-09-17": 798,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 662,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2025-09-17": 785,
+      "2025-09-17": 798,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "57.19%",
+    "uptimeDay": "57.18%",
     "uptimeWeek": "84.46%",
     "uptimeMonth": "35.59%",
     "uptimeYear": "92.69%",
-    "time": 4583,
-    "timeDay": 5820,
-    "timeWeek": 6193,
-    "timeMonth": 6273,
-    "timeYear": 4929,
+    "time": 4584,
+    "timeDay": 5773,
+    "timeWeek": 6186,
+    "timeMonth": 6269,
+    "timeYear": 4928,
     "dailyMinutesDown": {
       "2025-09-17": 525,
       "2025-09-16": 208,
@@ -841,8 +841,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1260,
       "2025-06-26": 116,
-      "2025-06-25": 71,
-      "2025-06-23": 18
+      "2025-06-25": 71
     }
   },
   {
@@ -862,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-17": 785,
+      "2025-09-17": 798,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -1246,7 +1245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-17": 785,
+      "2025-09-17": 798,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
