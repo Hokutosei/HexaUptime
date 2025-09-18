@@ -16,7 +16,7 @@
     "timeMonth": 798,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-09-18": 130,
+      "2025-09-18": 199,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 661,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-09-18": 130,
+      "2025-09-18": 199,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "64.72%",
-    "uptimeWeek": "84.35%",
+    "uptimeDay": "64.70%",
+    "uptimeWeek": "84.88%",
     "uptimeMonth": "35.47%",
     "uptimeYear": "92.69%",
-    "time": 4597,
+    "time": 4599,
     "timeDay": 3547,
-    "timeWeek": 5962,
-    "timeMonth": 6178,
-    "timeYear": 4915,
+    "timeWeek": 5955,
+    "timeMonth": 6173,
+    "timeYear": 4914,
     "dailyMinutesDown": {
       "2025-09-18": 33,
       "2025-09-17": 543,
@@ -842,7 +842,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1260,
       "2025-06-26": 116,
-      "2025-06-25": 50
+      "2025-06-25": 35
     }
   },
   {
@@ -851,7 +851,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "54.66%",
+    "uptime": "54.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -862,7 +862,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 131,
+      "2025-09-18": 200,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -1246,7 +1246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 131,
+      "2025-09-18": 200,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
