@@ -16,7 +16,7 @@
     "timeMonth": 796,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-09-20": 521,
+      "2025-09-20": 646,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "40.78%",
+    "uptime": "40.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 655,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-09-20": 521,
+      "2025-09-20": 646,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -772,16 +772,16 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "84.49%",
-    "uptimeMonth": "34.87%",
+    "uptimeDay": "89.85%",
+    "uptimeWeek": "84.68%",
+    "uptimeMonth": "34.86%",
     "uptimeYear": "94.45%",
-    "time": 4550,
-    "timeDay": 2693,
-    "timeWeek": 4929,
-    "timeMonth": 5687,
+    "time": 4552,
+    "timeDay": 2751,
+    "timeWeek": 4904,
+    "timeMonth": 5684,
     "timeYear": 4828,
     "dailyMinutesDown": {
       "2025-09-20": 102,
@@ -833,8 +833,7 @@
       "2025-07-17": 34,
       "2025-07-14": 22,
       "2025-07-11": 20,
-      "2025-07-06": 46,
-      "2025-07-05": 15
+      "2025-07-06": 46
     }
   },
   {
@@ -854,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 521,
+      "2025-09-20": 646,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1238,7 +1237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 521,
+      "2025-09-20": 646,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
