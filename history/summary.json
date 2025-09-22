@@ -16,7 +16,7 @@
     "timeMonth": 794,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-09-22": 164,
+      "2025-09-22": 263,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "40.74%",
+    "uptime": "40.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 653,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-09-22": 164,
+      "2025-09-22": 263,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -772,17 +772,17 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "89.96%",
+    "uptimeDay": "91.07%",
     "uptimeWeek": "86.68%",
-    "uptimeMonth": "39.32%",
-    "uptimeYear": "94.45%",
+    "uptimeMonth": "39.54%",
+    "uptimeYear": "94.46%",
     "time": 4492,
-    "timeDay": 2600,
-    "timeWeek": 4016,
-    "timeMonth": 5366,
-    "timeYear": 4763,
+    "timeDay": 2614,
+    "timeWeek": 4009,
+    "timeMonth": 5360,
+    "timeYear": 4762,
     "dailyMinutesDown": {
       "2025-09-22": 64,
       "2025-09-21": 80,
@@ -827,8 +827,7 @@
       "2025-07-29": 16,
       "2025-07-28": 85,
       "2025-07-27": 19,
-      "2025-07-26": 23,
-      "2025-07-25": 22
+      "2025-07-26": 23
     }
   },
   {
@@ -848,7 +847,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 164,
+      "2025-09-22": 264,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -1232,7 +1231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 164,
+      "2025-09-22": 264,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
