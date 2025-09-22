@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "54.60%",
+    "uptime": "54.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 794,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-09-22": 769,
+      "2025-09-22": 868,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "40.73%",
+    "uptime": "40.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 653,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-09-22": 769,
+      "2025-09-22": 868,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -772,16 +772,16 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "93.93%",
+    "uptimeDay": "93.92%",
     "uptimeWeek": "86.93%",
-    "uptimeMonth": "40.65%",
-    "uptimeYear": "94.45%",
-    "time": 4505,
-    "timeDay": 2682,
+    "uptimeMonth": "40.88%",
+    "uptimeYear": "94.46%",
+    "time": 4507,
+    "timeDay": 2557,
     "timeWeek": 3780,
-    "timeMonth": 5306,
+    "timeMonth": 5304,
     "timeYear": 4749,
     "dailyMinutesDown": {
       "2025-09-22": 84,
@@ -826,8 +826,7 @@
       "2025-07-30": 81,
       "2025-07-29": 16,
       "2025-07-28": 85,
-      "2025-07-27": 19,
-      "2025-07-26": 23
+      "2025-07-27": 19
     }
   },
   {
@@ -847,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 769,
+      "2025-09-22": 869,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -1231,7 +1230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 769,
+      "2025-09-22": 869,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
