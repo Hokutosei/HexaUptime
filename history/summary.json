@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "54.56%",
+    "uptime": "54.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 794,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-09-23": 1252,
+      "2025-09-23": 1292,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 653,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-09-23": 1252,
+      "2025-09-23": 1292,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -772,16 +772,16 @@
     "url": "https://community.hexabase.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.hexabase.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "93.60%",
+    "uptimeDay": "93.59%",
     "uptimeWeek": "88.35%",
-    "uptimeMonth": "44.83%",
+    "uptimeMonth": "44.92%",
     "uptimeYear": "94.46%",
-    "time": 4417,
-    "timeDay": 3012,
-    "timeWeek": 3035,
-    "timeMonth": 5154,
+    "time": 4418,
+    "timeDay": 3071,
+    "timeWeek": 3026,
+    "timeMonth": 5152,
     "timeYear": 4714,
     "dailyMinutesDown": {
       "2025-09-23": 92,
@@ -824,8 +824,7 @@
       "2025-08-05": 28,
       "2025-08-03": 42,
       "2025-07-31": 30,
-      "2025-07-30": 81,
-      "2025-07-29": 16
+      "2025-07-30": 81
     }
   },
   {
@@ -845,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 1252,
+      "2025-09-23": 1293,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -1218,7 +1217,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "54.61%",
+    "uptime": "54.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1229,7 +1228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 1252,
+      "2025-09-23": 1293,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
