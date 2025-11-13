@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az.hexabase.com.ico",
     "slug": "hexabase-staging-login",
     "status": "down",
-    "uptime": "53.08%",
+    "uptime": "53.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 441,
-    "timeDay": 602,
-    "timeWeek": 606,
-    "timeMonth": 646,
-    "timeYear": 566,
+    "time": 442,
+    "timeDay": 705,
+    "timeWeek": 613,
+    "timeMonth": 649,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-11-12": 1,
+      "2025-11-13": 1,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -379,8 +380,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-api.hexabase.com.ico",
     "slug": "hexabase-staging-api",
     "status": "down",
-    "uptime": "39.59%",
+    "uptime": "39.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 394,
-    "timeDay": 479,
-    "timeWeek": 564,
-    "timeMonth": 623,
-    "timeYear": 500,
+    "time": 396,
+    "timeDay": 741,
+    "timeWeek": 571,
+    "timeMonth": 624,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-11-12": 1,
+      "2025-11-13": 1,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -763,8 +764,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -776,13 +776,13 @@
     "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.15%",
+    "uptimeMonth": "46.44%",
     "uptimeYear": "92.24%",
     "time": 4206,
-    "timeDay": 3552,
-    "timeWeek": 1323,
-    "timeMonth": 1909,
-    "timeYear": 4406,
+    "timeDay": 1562,
+    "timeWeek": 1345,
+    "timeMonth": 1884,
+    "timeYear": 4407,
     "dailyMinutesDown": {
       "2025-10-29": 423,
       "2025-10-28": 1440,
@@ -838,7 +838,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "apicore-service",
     "status": "down",
-    "uptime": "52.91%",
+    "uptime": "52.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -849,7 +849,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1,
+      "2025-11-13": 1,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1212,8 +1213,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -1222,7 +1222,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/az-hxg.hexabase.com.ico",
     "slug": "linker-api-service",
     "status": "down",
-    "uptime": "53.05%",
+    "uptime": "53.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1233,7 +1233,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1,
+      "2025-11-13": 1,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1596,8 +1597,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   }
 ]
